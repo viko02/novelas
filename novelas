@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC-8WV89DLTZReJ9JK9Ay03Hcwd53tstIzMw&usqp=CAU", As Melhores Românticas Das Novelas 1 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4iTlgFKntGM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfYFDMZGGu9UD1LwF5JcLS74MoC65jYQfmUw&usqp=CAU", As Melhores Românticas Das Novelas 2 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZCRLChOn6OY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/479/original/d73f9c_521165c178374baa8914f91065df015f_mv2.jpg?1619903515", As Melhores Românticas Das Novelas 3 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y6_06eya8PQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/481/original/file.jpg?1619903633", As Melhores Românticas Das Novelas 4 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9tT5qV89D5Y
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/483/original/file2.jpg?1619903716", As Melhores Românticas Das Novelas 5 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ssk40PVtsLk
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/167/original/20210501_122846.jpg?1619882965", As Melhores Românticas Das Novelas 6 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Op_7JZtw94U
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
