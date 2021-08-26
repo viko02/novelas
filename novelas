@@ -12,7 +12,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZCRLCh
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/479/original/d73f9c_521165c178374baa8914f91065df015f_mv2.jpg?1619903515", As Melhores Românticas Das Novelas 3 Internacional
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/imagens/kBKp2IU", As Melhores Românticas Das Novelas 3 Internacional
 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y6_06eya8PQ
 
